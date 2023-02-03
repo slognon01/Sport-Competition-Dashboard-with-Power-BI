@@ -1,0 +1,299 @@
+,player_name,team_name,total,average,matches_played
+0,Ludovic FABREGAS,France,14,1.6,9
+1,DANIEL DUJSHEBAEV DOVICHEBAEVA,Spain,10,1.1,9
+2,Mathias GIDSEL,Denmark,9,1.0,9
+3,Pedro MARTINEZ CAMI,Argentina,9,1.5,6
+4,Nedim REMILI,France,8,0.9,9
+5,Ibrahim ELMASRY,Egypt,7,0.8,9
+6,Luc Steins,Netherlands,7,1.2,6
+7,Domagoj Duvnjak,Croatia,6,1.0,6
+8,Sander SAGOSEN,Norway,6,0.7,9
+9,Magnus SAUGSTRUP Jensen,Denmark,6,0.8,8
+10,Mohamed Abdulredha,Bahrain,5,0.8,6
+11,Sebastian BARTHOLD,Norway,5,0.6,9
+12,Samir Benghanem,Netherlands,5,0.8,6
+13,Radojica CEPIC,Montenegro,5,0.8,6
+14,Seif ELDERAA,Egypt,5,0.6,9
+15,Karim HENDAWY,Egypt,5,0.6,8
+16,Ivan Martinović,Croatia,5,0.8,6
+17,Kauldi ODRIOZOLA YEREGUI,Spain,5,0.6,9
+18,Magnus ABELVIK RØD,Norway,4,0.4,9
+19,Francisco Andres Ahumada Collado,Chile,4,0.6,7
+20,ABDULLAH AL-HAMMAD,Saudi Arabia,4,0.6,7
+21,OUSSAMA BOUGHANMI,Tunisia,4,0.6,7
+22,Agustin CASADO MARCELO,Spain,4,0.5,8
+23,Luka Cindric,Croatia,4,0.7,6
+24,Quinten Colman,Belgium,4,0.7,6
+25,Niclas EKBERG,Sweden,4,0.4,9
+26,Maciej Gębala,Poland,4,0.7,6
+27,Igor Gjorgiev,North Macedonia,4,0.6,7
+28,Johannes GOLLA,Germany,4,0.4,9
+29,Patrick GROETZKI,Germany,4,0.4,9
+30,Amine HARCHAOUI,Morocco,4,0.6,7
+31,Mehdi ISMAILI ALAOUI,Morocco,4,1.0,4
+32,Julian Köster,Germany,4,0.4,9
+33,Nenad Kosteski,North Macedonia,4,0.6,7
+34,Mohsen MAHMOUD,Egypt,4,0.4,9
+35,Domen Makuc,Slovenia,4,0.7,6
+36,Jorge MAQUEDA PEÑO,Spain,4,0.4,9
+37,Mohamed Mohamed ,Bahrain,4,0.7,6
+38,Arkadiusz Moryto,Poland,4,0.7,6
+39,Lucas Dario MOSCARIELLO,Argentina,4,0.7,6
+40,Željko MUSA,Croatia,4,0.7,6
+41,Dylan NAHI,France,4,0.4,9
+42,Christian O`SULLIVAN,Norway,4,0.4,9
+43,Daniel PETTERSSON,Sweden,4,0.4,9
+44,REZZOUKI REIDA,Morocco,4,0.7,6
+45,Josip ŠARAC,Croatia,4,0.8,5
+46,Kay Smits,Netherlands,4,0.7,6
+47,Domagoj SRSEN,United States of America,4,0.7,6
+48,Branko VUJOVIC,Montenegro,4,0.7,6
+49,Milos Vujovic,Montenegro,4,0.7,6
+50,Ilija ABUTOVIĆ,Serbia,3,0.5,6
+51,Mohamed ALY,Egypt,3,1.0,3
+52,abdi ayyoub,Algeria,3,0.4,7
+53,Dani Baijens,Netherlands,3,0.5,6
+54,Bence Bánhidi,Hungary,3,0.3,9
+55,Kristian BJØRNSEN,Norway,3,0.3,9
+56,Thibaud BRIET,France,3,0.5,6
+57, Maximo Esteban Cancio Casas,Uruguay,3,0.4,7
+58,Jonathan CARLSBOGÅRD,Sweden,3,0.3,9
+59,Rune DAHMKE,Germany,3,0.3,9
+60,Michał Daszek ,Poland,3,0.5,6
+61,Omar ELWAKIL,Egypt,3,0.3,9
+62,Angel FERNANDEZ PEREZ,Spain,3,0.3,9
+63,Tomasz Gębala,Poland,3,0.6,5
+64,Jim GOTTFRIDSSON,Sweden,3,0.4,7
+65,Kevin Maagerø GULLIKSEN,Norway,3,0.3,9
+66,daoud hichem,Algeria,3,0.6,5
+67,Vanja ILIĆ,Serbia,3,0.5,6
+68,Emil M. JAKOBSEN,Denmark,3,0.3,9
+69,Piotr Jędraszczyk,Poland,3,0.5,6
+70,JEONGU KANG,Korea,3,0.4,7
+71,Luka KARABATIC,France,3,0.4,7
+72,Juri KNORR,Germany,3,0.3,9
+73,Raphael Kötters,Belgium,3,0.5,6
+74,Przemysław Krajewski,Poland,3,0.5,6
+75,Magnus LANDIN JACOBSEN,Denmark,3,0.3,9
+76,HYEONSIK LEE,Korea,3,0.5,6
+77,Kentin MAHE,France,3,0.3,9
+78,Ramiro MARTINEZ,Argentina,3,0.5,6
+79,Aron PÁLMARSSON,Iceland,3,0.8,4
+80,Simon Bogetoft PYTLICK,Denmark,3,0.3,9
+81,Pedro Rodriguez Alvarez,Hungary,3,0.3,9
+82,Akram SAAD,Egypt,3,0.3,9
+83,Mohammad SANAD,Egypt,3,0.3,9
+84,Bobby Schagen,Netherlands,3,0.6,5
+85,Leandro SEMEDO,Cape Verde,3,0.5,6
+86,Mohamed SHEBIB,Egypt,3,0.4,8
+87,Dino SLAVIC,Croatia,3,0.8,4
+88,Ferran SOLE SALA,Spain,3,0.3,9
+89,Johan Á Plogv HANSEN,Denmark,2,0.2,9
+90,Mohab ABDELHAK,Egypt,2,0.2,9
+91,MAHDI AL-SALEM,Saudi Arabia,2,0.3,7
+92,Youssef ALI,Qatar,2,0.3,6
+93,Husain Alsayyad,Bahrain,2,0.3,6
+94,Bozo ANDJELIC,Montenegro,2,0.3,6
+95,Edmilson Araújo,Cape Verde,2,0.3,6
+96,HAZEM BACHA,Tunisia,2,0.3,7
+97,Bartłomiej Bis,Poland,2,0.4,5
+98,Blaz BLAGOTINSEK,Slovenia,2,0.3,6
+99,Nicolas BONANNO,Argentina,2,0.3,6
+100,Alexis Borges,Portugal,2,0.3,6
+101,Uroš BORZAŠ,Serbia,2,0.3,6
+102,Rafael CAPOTE,Qatar,2,0.7,3
+103,Sebastian CEBALLOS,Chile,2,0.3,7
+104,Nejc CEHTE,Slovenia,2,0.3,6
+105,Andrew DONLIN,United States of America,2,0.3,6
+106,Bjarki Már ELÍSSON,Iceland,2,0.3,6
+107,Daniel FERNANDEZ JIMENEZ,Spain,2,0.4,5
+108,Luís Frade,Portugal,2,0.3,6
+109,Javier FRELIJJ,Chile,2,0.3,7
+110,Admilson Estaliny Furtado,Cape Verde,2,0.3,6
+111,Filip GLAVAS,Croatia,2,0.3,6
+112,Mathieu GREBILLE,France,2,0.2,9
+113,Sigvaldi Björn GUDJONSSON,Iceland,2,0.3,6
+114,Viktor Gísli HALLGRIMSSON,Iceland,2,0.3,6
+115,Blaz Janc,Slovenia,2,0.4,5
+116,DONGHYUN JANG,Korea,2,0.3,7
+117,Marin Jelinić,Croatia,2,0.3,6
+118,Eric JOHANSSON,Sweden,2,0.2,9
+119,YASIN KABIRIANJOO,Islamic Republic of Iran,2,0.3,6
+120,JINYOUNG KIM,Korea,2,0.3,7
+121,Niclas Vest KIRKELØKKE,Denmark,2,0.5,4
+122,Tilen KODRIN,Slovenia,2,0.3,6
+123,Marko LASICA,Montenegro,2,0.3,6
+124,Yanis LENNE,France,2,0.2,9
+125,Jef Lettens,Belgium,2,0.3,6
+126,YOUSSEF MAAREF,Tunisia,2,0.3,7
+127,Ahmad MADADI,Qatar,2,0.3,6
+128,Fábio Magalhães,Portugal,2,0.3,6
+129,Eldar MEMISEVIC,Qatar,2,0.3,6
+130,Mads MENSAH LARSEN,Denmark,2,0.2,9
+131,Lovro MIHIĆ,Croatia,2,0.4,5
+132,Ali MOHAMED,Egypt,2,0.2,9
+133,Lasse K. MØLLER,Denmark,2,2.0,1
+134,Henrik MØLLGAARD JENSEN,Denmark,2,0.3,8
+135,Raul NANTES,Brazil,2,0.3,6
+136,POUYA NOROUZINEZHAD GHAREHLOU,Islamic Republic of Iran,2,0.4,5
+137,Petter ØVERBY,Norway,2,0.2,9
+138,IGNACIO PECIÑA TOME,Spain,2,0.3,8
+139,Gonzalo PEREZ DE VARGAS MORENO,Spain,2,0.2,9
+140,Linus PERSSON,Sweden,2,0.2,9
+141,Délcio PINA,Cape Verde,2,0.3,6
+142,Valentin PORTE,France,2,0.3,8
+143,Elohim PRANDI,France,2,0.2,9
+144,Bogdan RADIVOJEVIĆ,Serbia,2,0.3,6
+145,Ty Reed,United States of America,2,0.4,5
+146,Nicolas Aaron Robinson,United States of America,2,0.7,3
+147,Gustavo RODRIGUES,Brazil,2,0.3,6
+148,Ivar Stavast,Netherlands,2,0.3,6
+149,Márton SZEKELY,Hungary,2,0.2,9
+150,Abdelrahman Tarek ABDALLA,Qatar,2,0.3,6
+151,Nicolas TOURNAT,France,2,0.2,9
+152,Pablo VAINSTEIN,Argentina,2,0.3,6
+153,Niels Versteijnen,Netherlands,2,0.3,6
+154,Elliði Snær Viðarsson,Iceland,2,0.3,6
+155,Patryk Walczak,Poland,2,0.3,6
+156,Stefan Zabic,Slovenia,2,0.5,4
+157,BILEL ABDELLI,Tunisia,1,0.1,7
+158,AHMAD AL-ABDULALI,Saudi Arabia,1,0.2,6
+159,ABDULLAH AL-HULAILI,Saudi Arabia,1,0.1,7
+160,MOJTABA AL-SALEM,Saudi Arabia,1,0.2,6
+161,Hasan Ali,Bahrain,1,0.2,5
+162,Mohamed Ali,Bahrain,1,0.2,6
+163,MARHOON ALMAA,Saudi Arabia,1,0.1,7
+164,Hasan Alsamahiji,Bahrain,1,0.2,5
+165,Mujtaba Alzaimoor,Bahrain,1,0.2,6
+166,Gábor Ancsin,Hungary,1,0.1,9
+167,António Areia,Portugal,1,0.2,6
+168,Pavle Atanasijevikj,North Macedonia,1,0.5,2
+169,Aleksandar Bakic,Montenegro,1,0.2,6
+170,SALAMAN BARBAT,Islamic Republic of Iran,1,0.3,4
+171,SANTIAGO BARCELO GARCIA,Argentina,1,0.3,4
+172,MOHAMMADMAHDI BEHNAMNIA,Islamic Republic of Iran,1,0.2,6
+173,YASSINE BELKAIED ,Tunisia,1,0.3,4
+174,Mohamed Amine BENTALEB,Morocco,1,0.1,7
+175,Oscar BERGENDAHL,Sweden,1,0.1,9
+176,Allaedine BERRACHED,Qatar,1,0.2,5
+177,Maximillian Binderis,United States of America,1,0.3,3
+178,Richárd Bodó,Hungary,1,0.1,9
+179,Milos BOZOVIC,Montenegro,1,0.2,5
+180,Nick BRAUN,Belgium,1,0.2,6
+181,Pierre Brixhe,Belgium,1,0.2,5
+182,Joan CAÑELLAS REIXACH,Spain,1,0.1,8
+183,Giovanni Capello,Uruguay,1,0.1,7
+184,Alexandre Chan Blanco,United States of America,1,0.2,6
+185,Gabriel Chaparro Almada,Uruguay,1,0.1,7
+186,Fabio CHIUFFA,Brazil,1,0.2,6
+187,Felix CLAAR,Sweden,1,0.1,9
+188,Aaron CODINA,Chile,1,0.1,7
+189,Sean CORNING,United States of America,1,0.3,4
+190,Gilson CORREIA,Cape Verde,1,0.2,6
+191,Jan Czuwara,Poland,1,0.2,6
+192,Max DARJ,Sweden,1,0.1,9
+193,MOHAMED AMINE DARMOUL,Tunisia,1,0.1,7
+194,Maximiliano De Agrela Milgron,Uruguay,1,0.1,7
+195,Louis Delpire,Belgium,1,1.0,1
+196,Ivan Djonov,North Macedonia,1,0.1,7
+197,Stefan DODIĆ,Serbia,1,0.2,6
+198,Paul DRUX,Germany,1,0.2,6
+199,Alex DUJSHEBAEV DOVICHEBAEVA,Spain,1,0.1,9
+200,Ali Eid,Bahrain,1,0.2,6
+201,HICHAM EL HAKIMY,Morocco,1,0.1,7
+202,Yehia ELDERAA,Egypt,1,0.1,9
+203,Leonel Fernandes,Portugal,1,0.2,6
+204,Erwin FEUCHTMANN,Chile,1,0.1,7
+205,Aboubakar FOFANA,United States of America,1,0.2,6
+206,Flávio Fortes,Cape Verde,1,0.2,6
+207,HUSSAIN FURAIJ,Saudi Arabia,1,1.0,1
+208,Matej Gaber,Slovenia,1,0.5,2
+209,Jovan GACEVIC,Qatar,1,0.2,6
+210,Imanol GARCIANDIA ALUSTIZA,Spain,1,0.2,6
+211,Goce Georgievski,North Macedonia,1,0.2,5
+212,Ýmir Örn Gíslason,Iceland,1,0.2,6
+213,Jakov Gojun,Croatia,1,0.2,6
+214,André Gomes,Portugal,1,0.2,6
+215,Edmilson GONÇALVES,Cape Verde,1,0.2,6
+216,Tobias Schjølberg Grøndahl,Norway,1,0.2,6
+217,Magnus GULLERUD,Norway,1,0.1,9
+218,Björgvin Páll Gústavsson,Iceland,1,0.2,6
+219,MINHO HA,Korea,1,0.1,7
+220,Rudolph HACKBARTH,Brazil,1,0.2,6
+221,Kai HÄFNER,Germany,1,0.1,9
+222,Moustafa HEIBA,Qatar,1,0.2,6
+223,MOJTABA HEIDARPOUR,Islamic Republic of Iran,1,0.3,4
+224,Samuel Hoddersen,United States of America,1,0.2,6
+225,Abdelrahman HOMAYED,Egypt,1,0.1,7
+226,Mads HOXER Hangaard,Denmark,1,0.3,3
+227,Ian Hueter,United States of America,1,0.2,6
+228,Benjamin ILLESCA,Chile,1,0.1,7
+229,Rene INGRAM,United States of America,1,0.3,3
+230,TARAK JALLOUZ,Tunisia,1,0.1,7
+231,Stas Jovicic,Slovenia,1,1.0,1
+232,Hassan KADDAH,Egypt,1,0.1,8
+233,MOHAMMADREZA KAZEMI,Islamic Republic of Iran,1,0.2,6
+234,MOHAMMAD KIANI,Islamic Republic of Iran,1,0.2,6
+235,DONGUK KIM,Korea,1,0.1,7
+236,YEONBIN KIM,Korea,1,0.2,5
+237,Jannik KOHLBACHER,Germany,1,0.1,9
+238,Mokhtar KOURI,Algeria,1,0.1,7
+239,Dominik Kuzmanović,Croatia,1,0.3,4
+240,Filip Kuzmanovski,North Macedonia,1,0.1,7
+241,Albin LAGERGREN,Sweden,1,0.1,8
+242,Niklas LANDIN JACOBSEN,Denmark,1,0.1,9
+243,Rasmus LAUGE Schmidt,Denmark,1,0.3,4
+244,Vuk LAZOVIC,Montenegro,1,0.2,6
+245,Máté Lékai,Hungary,1,0.1,9
+246,Hans LINDBERG,Denmark,1,0.2,5
+247,Borut Mackovsek,Slovenia,1,0.2,5
+248,Dejan Manaskov,North Macedonia,1,0.1,7
+249,NOUREDDINE MAOUA,Tunisia,1,0.1,7
+250,Pal Merkovszky,United States of America,1,0.2,6
+251,Lukas Mertens,Germany,1,0.1,9
+252,Marko MILOSAVLJEVIC,Serbia,1,0.2,6
+253,Mihajlo Mladenovikj,North Macedonia,1,0.2,6
+254,Ahmed MOHAMED,Egypt,1,0.1,9
+255,Hugo Bryan Monta da Silva,Brazil,1,0.2,6
+256,Ahmed Nader SALEH,Qatar,1,0.2,6
+257,Domen Novak,Slovenia,1,0.2,6
+258,Miloš ORBOVIĆ,Serbia,1,0.2,6
+259,Sander ØVERJORDET,Norway,1,0.1,7
+260,SEUNG PARK,Korea,1,0.2,6
+261,YOUNGJUN PARK,Korea,1,0.2,6
+262,James Lewis PARKER,Argentina,1,0.2,6
+263,Matias PAYA,Chile,1,0.1,7
+264,Dragan PECHMALBEC,Serbia,1,0.2,6
+265,Thiagus PETRUS,Brazil,1,0.2,6
+266,Ignacio PIZARRO,Argentina,1,0.2,5
+267,Pedro Portela,Portugal,1,0.2,6
+268,Zion Santiago Ramos Cano,Uruguay,1,0.1,7
+269,Melvyn RICHARDSON,France,1,0.1,9
+270,Tom Robyns,Belgium,1,0.2,6
+271,Miklós Rosta,Hungary,1,0.1,9
+272,AFSHIN SADEGHI ASKARI,Islamic Republic of Iran,1,0.2,5
+273,Yassine SAMI,Qatar,1,0.2,6
+274,MEHRDAD SAMSAMI,Islamic Republic of Iran,1,0.2,5
+275,Miguel SÁNCHEZ MIGALLÓN NARANJO,Spain,1,0.1,9
+276,Luciano SCARAMELLI,Chile,1,0.1,7
+277,Robin Schoenaker,Netherlands,1,0.2,6
+278,Martin Serafimov,North Macedonia,1,0.1,7
+279,Ebrahim SHEBL EBAID,Qatar,1,0.2,6
+280,Bozidar SIMIC,Montenegro,1,0.3,3
+281,Nebojsa Simic,Montenegro,1,0.2,6
+282,Diego Esteban SIMONET,Argentina,1,0.2,6
+283,Pablo Ariel SIMONET,Argentina,1,0.2,6
+284,Paul Skorupa,United States of America,1,0.3,3
+285,Serge Spooren,Belgium,1,0.2,6
+286,Christoph Steinert,Germany,1,0.1,9
+287,Marko Stojkovikj,North Macedonia,1,0.2,6
+288,Zoltán SZITA,Hungary,1,0.1,9
+289,FIlip Taleski,North Macedonia,1,0.1,7
+290,Ian TARRAFETA SERRANO,Spain,1,1.0,1
+291,Rutger ten Velde,Netherlands,1,0.2,6
+292,GHASSEN TOUMI,Tunisia,1,0.1,7
+293,Risto VUJACIC,Montenegro,1,0.2,6
+294,Hampus WANNE,Sweden,1,0.1,9
+295,Philipp WEBER,Germany,1,0.1,8
+296,Ameen ZAKKAR,Qatar,1,0.2,6
+297,Nikolas Zarikos,United States of America,1,0.2,6
